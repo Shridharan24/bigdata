@@ -3,7 +3,7 @@ create database demo;
 
 TO CREATE TABLE
 
-create table demo.emp(id int,Namr string ,salary folat);
+create table demo.emp(id int,Namr string ,salary float);
 
 TO DESCRIBE ABOUT TABLE
 
